@@ -1,0 +1,34 @@
+[
+    {
+        "title":"Text Editor",
+        "imageSrc":"projects/project.png",
+        "description":"In this project user can edit the Text and use othe functionalities like count and font",
+        "skills":["React","HTML","CSS"],
+        "demo":"https://text-editorrr.netlify.app/",
+        "source":"https://github.com/Sahil-9030/text-editor"
+    },
+    {
+        "title":"Password generator",
+        "imageSrc":"projects/project.png",
+        "description":"Using this webApp user can generate random password in length of 4-20",
+        "skills":["React","HTML","CSS"],
+        "demo":"https://password-generrator.netlify.app/",
+        "source":"https://github.com/Sahil-9030/Password_Generator"
+    },
+    {
+        "title":"Dev Detective",
+        "imageSrc":"projects/project.png",
+        "description":"Dev detective provides the information available on the one's GitHub by providing the GitHub username only",
+        "skills":["React","HTML","CSS"],
+        "demo":"https://thedev-detective.netlify.app/",
+        "source":"https://github.com/Sahil-9030/dev-detective"
+    },
+    {
+        "title":"Personal Portfolio",
+        "imageSrc":"projects/project.png",
+        "description":"This project contains the work and projects and skills that I've made till date",
+        "skills":["React","HTML","CSS"],
+        "demo":"",
+        "source":""
+    }
+]

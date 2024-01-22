@@ -1,0 +1,10 @@
+[
+    {
+        "role": " React Developer",
+        "organisation": " MakeMeNext",
+        "startDate": " March, 2023",
+        "endDate": "     July, 2023",
+        "experiences":["Developed frontEnd components"],
+        "imageSrc": "skills/react.png"
+    }
+]
